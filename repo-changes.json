@@ -1,0 +1,12 @@
+{
+	"$schema": "./schema/repo-changes.schema.json",
+	"version": 1,
+	"updated": "2026-07-19",
+	"entries": {
+		"main": [
+			"Renamed workspace validation to repository validation across tooling and documentation.",
+			"Added filename-based Node, jsdom, integration, and Playwright test suites.",
+			"Added Chromium Playwright installation and end-to-end execution to CI."
+		]
+	}
+}
