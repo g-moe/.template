@@ -1,8 +1,11 @@
 {
 	"$schema": "./schema/repo-changes.schema.json",
 	"version": 1,
-	"updated": "2026-07-19",
+	"updated": "2026-09-05",
 	"entries": {
+		"garrett/update-depends": [
+			"Updated pinned dependencies to the latest versions allowed by the one-week release-age policy and Node 24 runtime."
+		],
 		"main": [
 			"Renamed workspace validation to repository validation across tooling and documentation.",
 			"Added filename-based Node, jsdom, integration, and Playwright test suites.",
