@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@playwright/test": "1.62.1",
-		"@types/node": "24.13.3",
+		"@types/node": "26.6.2",
 		"@vitest/coverage-v8": "4.1.11",
 		"cloc": "2.6.0-cloc",
 		"husky": "9.1.7",
